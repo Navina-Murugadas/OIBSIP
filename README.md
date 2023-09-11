@@ -1,5 +1,5 @@
 # OASIS INFOBYTE DATA SCIENCE INTERNSHIP
-Hello and welcome to my GitHub repository! I am Navina.M, currently interning at Oasis InfoByte, and I'm excited to share with you the projects I've been working on during my internship.
+Hello and welcome to my GitHub repository! I am Navina.M, currently interning at Oasis InfoByte as Data Science Intern, and I'm excited to share with you the projects I've been working on during my internship.
 
 # Project Overview:
 In the past 1 month, I've had the privilege of working on several projects that have allowed me to apply and expand my skills in Data Science, Data Analysis, Machine Learning. These projects are a testament to the real-world experience I've gained while interning here.
